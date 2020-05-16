@@ -1,0 +1,61 @@
+{
+
+    "Settings"      :   {
+
+                            "Language"  : "de",
+                            "Tries"     : 3
+
+                        },
+
+    "Languages"     :   {
+
+                            "Deutsch"   : "de",
+                            "English"   : "en"
+
+                        },
+
+    "Words"         :   {
+                        
+                            "de" :  {
+
+                                        "1" : "Flasche",
+                                        "2" : "Handtuch",
+                                        "3" : "Gabel",
+                                        "4" : "Bier",
+                                        "5" : "Kartoffel"
+
+                                    },
+
+                            "en" :  {
+
+                                        "1" : "Bottle",
+                                        "2" : "Towel",
+                                        "3" : "Fork",
+                                        "4" : "Beer",
+                                        "5" : "Potato"
+
+                                    }
+
+                        },
+
+    "UI"            :   {
+
+                            "de" :  {
+
+                                        "Main": {
+                                                    "Title" : "Galgenraten by MeckeDev"
+                                                }
+
+                                    },
+
+                            "en" :  {
+
+                                        "Main": {
+                                                    "Title" : "Hangman by MeckeDev"
+                                                }
+
+                                    }
+
+                        }
+
+}
